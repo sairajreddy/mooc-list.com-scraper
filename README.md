@@ -38,4 +38,4 @@ This is a two step process to extract complete mooc-list data.
 
 ### NOTE :
 
-Make sure there's uninterrupted internet and this takes probably few hours (2 to 3 hours) to extract complete data. 
+Make sure there's uninterrupted internet and this takes probably few hours (2 to 3 hours) to extract complete data depending on your bandwidth capacity. 
